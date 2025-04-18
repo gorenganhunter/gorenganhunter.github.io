@@ -1,6 +1,12 @@
 {
     "username": "Gorengan Hunter",
+    "aboutMe": "A random high school student which likes LoveLive!.",
     "age": 16,
+    "from": {
+        "regency": "Mojokerto",
+        "province": "East Java",
+        "country": "Indonesia"
+    },
     "skills": [
         "javascript",
         "typescript",
