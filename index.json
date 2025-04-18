@@ -1,0 +1,39 @@
+{
+    "username": "Gorengan Hunter",
+    "age": 16,
+    "skills": [
+        "javascript",
+        "typescript",
+        "nodejs",
+        "sonolus.js",
+        "expressjs",
+        "mongodb",
+        "reactjs",
+        "nextjs",
+        "html",
+        "css",
+        "bootstrap"
+    ],
+    "projects": [
+        {
+            "name": "sonolus-d4dj-engine",
+            "description": "A recreation of D4DJ Groovy Mix engine in Sonolus.",
+            "url": "https://d4dj.sonolus.gorenganhunter.my.id",
+            "repository": "https://github.com/gorenganhunter/sonolus-d4dj-engine",
+            "languages": [
+                "typescript"
+            ]
+        }
+    ],
+    "contact": {
+        "github": "https://github.com/gorenganhunter",
+        "discord": {
+            "account": {
+                "username": "@gorenganhunter",
+                "url": "https://discord.com/users/952514844089778208"
+            },
+            "server": "https://discord.gg/haJZufcv8G"
+        },
+        "email": "gorengandev@gmail.com"
+    }
+}
