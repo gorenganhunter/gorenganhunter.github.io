@@ -28,6 +28,9 @@
             "repository": "https://github.com/gorenganhunter/sonolus-d4dj-engine",
             "languages": [
                 "typescript"
+            ],
+            "frameworks": [
+                "sonolus.js"
             ]
         }
     ],
