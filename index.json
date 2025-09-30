@@ -2,11 +2,7 @@
     "username": "Gorengan Hunter",
     "aboutMe": "A random high school student which likes LoveLive!.",
     "age": 16,
-    "from": {
-        "regency": "Mojokerto",
-        "province": "East Java",
-        "country": "Indonesia"
-    },
+    "from": "Indonesia",
     "skills": [
         "javascript",
         "typescript",
@@ -26,6 +22,18 @@
             "description": "A recreation of D4DJ Groovy Mix engine in Sonolus.",
             "url": "https://d4dj.sonolus.gorenganhunter.my.id",
             "repository": "https://github.com/gorenganhunter/sonolus-d4dj-engine",
+            "languages": [
+                "typescript"
+            ],
+            "frameworks": [
+                "sonolus.js"
+            ]
+        },
+        {
+            "name": "sonolus-cgss-engine",
+            "description": "A recreation of THE iDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE engine in Sonolus.",
+            "url": "https://cgss.sonolus.gorenganhunter.my.id",
+            "repository": "https://github.com/gorenganhunter/sonolus-cgss-engine",
             "languages": [
                 "typescript"
             ],
